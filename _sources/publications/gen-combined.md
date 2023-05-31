@@ -1,372 +1,18 @@
+---
+title: Combined
+---
+# Combined
 
 
-<!DOCTYPE html>
-
-
-<html lang="en" data-theme="light">
-
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
-
-    <title>Journal articles &#8212; NeuroPoly  documentation</title>
-  
-  
-  
-  <script data-cfasync="false">
-    document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
-  </script>
-  
-  <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-
-  
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/theme.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
-  
-  <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
-
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/sphinx_highlight.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
-    <script src="../_static/design-tabs.js"></script>
-    <script src="../_static/js/custom.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'publications/journal_articles';</script>
-    <link rel="icon" href="../_static/logo.png"/>
-    <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Book chapters" href="books.html" />
-    <link rel="prev" title="📚 Publications" href="README.html" />
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="docsearch:language" content="en"/>
-  </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="light">
-
-  
-  
-  <a class="skip-link" href="#main-content">Skip to main content</a>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
-  
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
-  
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
-<form class="bd-search d-flex align-items-center"
-      action="../search.html"
-      method="get">
-  <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search"
-         class="form-control"
-         name="q"
-         id="search-input"
-         placeholder="Search..."
-         aria-label="Search..."
-         autocomplete="off"
-         autocorrect="off"
-         autocapitalize="off"
-         spellcheck="false"/>
-  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
-  
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
-  
-  <div class="bd-container">
-    <div class="bd-container__inner bd-page-width">
-      
-      <div class="bd-sidebar-primary bd-sidebar">
-        
-
-  
-  <div class="sidebar-header-items sidebar-primary__section">
-    
-    
-    
-    
-  </div>
-  
-    <div class="sidebar-primary-items__start sidebar-primary__section">
-        <div class="sidebar-primary-item">
-  
-
-<a class="navbar-brand logo" href="../README.html">
-  
-  
-  
-  
-    
-    
-    
-    <img src="../_static/logo.png" class="logo__image only-light" alt="NeuroPoly Lab"/>
-    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="NeuroPoly Lab"/>`);</script>
-  
-  
-</a></div>
-        <div class="sidebar-primary-item"><!-- GTranslate: https://gtranslate.io/ -->
-<div class="center-g-translate">
-    <a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="gflag nturl" style="background-position:-0px -0px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="English" /></a><a href="#" onclick="doGTranslate('en|fr');return false;" title="French" class="gflag nturl" style="background-position:-200px -100px;"><img src="//gtranslate.net/flags/blank.png" height="24" width="24" alt="French" /></a>
-
-    <style type="text/css">
-        <!--
-        a.gflag {vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/24.png);}
-        a.gflag img {border:0;}
-        a.gflag:hover {background-image:url(//gtranslate.net/flags/24a.png);}
-        #goog-gt-tt {display:none !important;}
-        .goog-te-banner-frame {display:none !important;}
-        .goog-te-menu-value:hover {text-decoration:none !important;}
-        body {top:0 !important;}
-        #google_translate_element2 {display:none!important;}
-        -->
-    </style>
-
-    <div id="google_translate_element2"></div>
-    <script type="text/javascript">
-        function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
-    </script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
-
-
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
-        /* ]]> */
-    </script>
-</div></div>
-        <div class="sidebar-primary-item">
-<form class="bd-search d-flex align-items-center"
-      action="../search.html"
-      method="get">
-  <i class="fa-solid fa-magnifying-glass"></i>
-  <input type="search"
-         class="form-control"
-         name="q"
-         id="search-input"
-         placeholder="Search..."
-         aria-label="Search..."
-         autocomplete="off"
-         autocorrect="off"
-         autocapitalize="off"
-         spellcheck="false"/>
-  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item navbar-nav active">
-        <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../README.html">Welcome to NeuroPoly</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../team/README.html"><span>👫</span> Team</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../facilities.html"><span>🏛</span> Facilities</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../research/README.html"><span>🔍</span> Research</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../research/rf-and-shim-coil-design.html">RF &amp; Shim Coil Design</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../research/mapping-tissue-microstructure.html">Mapping Tissue Microstructure</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../research/collaborations.html">Collaborations</a></li>
-</ul>
-</li>
-<li class="toctree-l1 current active has-children"><a class="reference internal" href="README.html"><span>📚</span> Publications</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
-<li class="toctree-l2 current active"><a class="current reference internal" href="#">Journal articles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="books.html">Book chapters</a></li>
-<li class="toctree-l2"><a class="reference internal" href="theses.html">Theses</a></li>
-<li class="toctree-l2"><a class="reference internal" href="public_news.html">Public News</a></li>
-<li class="toctree-l2"><a class="reference internal" href="data.html">Data</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gen-article.html">Articles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gen-conf-article.html">Conference Articles</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gen-combined.html">Combined</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../software.html"><span>🖥</span> Software</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../events-and-workshops.html"><span>📅</span> Events &amp; Workshops</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../job-opportunities/README.html"><span>📣</span> Job Opportunities</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../job-opportunities/msc-or-phd-or-postdoc-positions.html">MSc | PhD | PostDoc Positions</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../job-opportunities/it-specialist.html">Open-source IT specialist</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../job-opportunities/data-curator.html">Data curator</a></li>
-<li class="toctree-l2 has-children"><a class="reference internal" href="../job-opportunities/internships/README.html">Internships</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l3"><a class="reference internal" href="../job-opportunities/internships/labeling-medical-images-for-a.i.-applications.html">Labeling Medical Images for A.I. Applications</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../job-opportunities/internships/medical-image-analysis.html">Medical Image Analysis</a></li>
-<li class="toctree-l3"><a class="reference internal" href="../job-opportunities/internships/mri-physics.html">MRI physics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../contact-us.html"><span>📫</span> Contact Us</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://intranet.neuro.polymtl.ca">Lab Manual</a></li>
-</ul>
-
-    </div>
-</nav></div>
-    </div>
-  
-  
-  <div class="sidebar-primary-items__end sidebar-primary__section">
-  </div>
-  
-  <div id="rtd-footer-container"></div>
-
-
-      </div>
-      
-      <main id="main-content" class="bd-main">
-        
-        
-
-<div class="sbt-scroll-pixel-helper"></div>
-
-          <div class="bd-content">
-            <div class="bd-article-container">
-              
-              <div class="bd-header-article">
-<div class="header-article-items header-article__inner">
-  
-    <div class="header-article-items__start">
-      
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <span class="fa-solid fa-bars"></span>
-</label></div>
-      
-    </div>
-  
-  
-    <div class="header-article-items__end">
-      
-        <div class="header-article-item">
-
-<div class="article-header-buttons">
-
-
-<a href="https://github.com/neuropoly/neuro.polymtl.ca/edit/master/publications/journal_articles.md" target="_blank"
-   class="btn btn-sm btn-source-edit-button"
-   title="Suggest edit"
-   data-bs-placement="bottom" data-bs-toggle="tooltip"
->
-  
-
-<span class="btn__icon-container">
-  <i class="fas fa-pencil-alt"></i>
-  </span>
-
-</a>
-
-
-<script>
-document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-  </button>
-`);
-</script>
-
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="fa-solid fa-list"></span>
-</label>
-</div></div>
-      
-    </div>
-  
-</div>
-</div>
-              
-              
-
-<div id="jb-print-docs-body" class="onlyprint">
-    <h1>Journal articles</h1>
-    <!-- Table of contents -->
-    <div id="print-main-content">
-        <div id="jb-print-toc">
-            
-            <div>
-                <h2> Page Contents </h2>
-            </div>
-            <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">2023</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">2022</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">2021</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">2020</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">2019</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">2018</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">2017</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">2016</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">2015</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">2014</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">2013</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">2012</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">2011</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">2010</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">2009</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">2008</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id17">2007</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id18">2006</a></li>
-</ul>
-            </nav>
-        </div>
-    </div>
-</div>
-
-              
-                
-<div id="searchbox"></div>
-                <article class="bd-article" role="main">
-                  
-  <section id="journal-articles">
-<h1>Journal articles<a class="headerlink" href="#journal-articles" title="Permalink to this heading">#</a></h1>
-<p>Filter by Labels:</p>
-<div id="filter-box">
-</div>
-<!-- label_definitions.md -->
-<p><button class="label" data-label="mri-physics">mri-physics</button>
-<button class="label" data-label="shimming">shimming</button>
-<button class="label" data-label="quantitative-mri">quantitative-mri</button>
-<button class="label" data-label="fmri">fmri</button>
-<button class="label" data-label="image-analysis">image-analysis</button>
-<button class="label" data-label="deep-learning">deep-learning</button>
-<button class="label" data-label="microscopy">microscopy</button>
-<button class="label" data-label="spinal-cord-injury">spinal-cord-injury</button>
-<button class="label" data-label="multiple-sclerosis">multiple-sclerosis</button>
-<button class="label" data-label="neuroscience">neuroscience</button></p>
-<section id="id1">
-<h2>2023<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h2>
+## 2023
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis deep-learning">
     <h3>HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation</h3>
     <p><em>Heidari M, Kazerouni A, Soltany M, Azad R, Aghdam EK, Cohen-Adad J, Merhof D</em></p>
     <p><strong>Winter Conference on Applications of Computer Vision (WACV) </strong> (2023) <a href="https://arxiv.org/pdf/2207.08518.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
-</section>
-<section id="id2">
-<h2>2022<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h2>
+
+## 2022
 <div class="publications-container">
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Label fusion and training methods for reliable representation of inter-rater uncertainty</h3>
@@ -434,28 +80,32 @@ document.write(`
     <p><strong>Front Neuroanat</strong> (2022) <a href="https://www.frontiersin.org/articles/10.3389/fnana.2022.960475">Link to paper</a><span class="publication-label"> (Labels: microscopy)</span></p>
 </div>
 <div class="publication" data-labels="image-analysis deep-learning">
-    <h3>Intervertebral Disc Labeling with Learning Shape Information, a Look once Approach</h3>
-    <p><em>Azad R, Heidari M, Cohen-Adad J, Adeli E, Merhof D</em></p>
-    <p><strong>Predictive Intelligence in Medicine: 5th International Workshop, PRIME 2022, Held in Conjunction with MICCAI 2022, Singapore, September 22, 2022, Proceedings</strong> (2022) <a href="https://doi.org/10.1007/978-3-031-16919-9_5">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
+    <h3>Segmentation of Multiple Sclerosis Lesions across Hospitals: Learn Continually or Train from Scratch?</h3>
+    <p><em>Karthik EN, Kerbrat A, Labauge P, Granberg T, Talbott J, Reich DS, Filippi M, Bakshi R, Callot V, Chandar S, Cohen-Adad J</em></p>
+    <p><strong>Medical Imaging Meets NeurIPS (MedNeurIPS) Workshop </strong> (2022) <a href="https://arxiv.org/abs/2210.15091">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
 <div class="publication" data-labels="quantitative-mri image-analysis">
     <h3>Reproducibility and Evolution of Diffusion MRI Measurements within the Cervical Spinal Cord in Multiple Sclerosis</h3>
     <p><em>Snoussi H, Caruyer E, Combes B, Commowick O, Bannier E, Kerbrat A, Cohen-Adad J</em></p>
     <p><strong>IEEE International Symposium on Biomedical Imaging (ISBI) 2022, Kolkata, India</strong> (2022) <a href="">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
-</section>
-<section id="id3">
-<h2>2021<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h2>
-<div class="publications-container">
-<div class="publication" data-labels="deep-learning image-analysis">
-    <h3>Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning</h3>
-    <p><em>Lemay A, Gros C, Zhuo Z, Zhang J, Duan Y, Cohen-Adad J, Liu Y</em></p>
-    <p><strong>Neuroimage Clin</strong> (2021) <a href="https://www.sciencedirect.com/science/article/pii/S2213158221002102?via%3Dihub">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
+<div class="publication" data-labels="image-analysis deep-learning">
+    <h3>Intervertebral Disc Labeling with Learning Shape Information, a Look once Approach</h3>
+    <p><em>Azad R, Heidari M, Cohen-Adad J, Adeli E, Merhof D</em></p>
+    <p><strong>Predictive Intelligence in Medicine: 5th International Workshop, PRIME 2022, Held in Conjunction with MICCAI 2022, Singapore, September 22, 2022, Proceedings</strong> (2022) <a href="https://doi.org/10.1007/978-3-031-16919-9_5">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
+
+## 2021
+<div class="publications-container">
 <div class="publication" data-labels="microscopy image-analysis deep-learning">
     <h3>A simple and robust method for automating analysis of naïve and regenerating peripheral nerves</h3>
     <p><em>Wong A, Hricz N, Malapati H, von Guionneau N, Wong MJ, Harris T, Boudreau M, Cohen-Adad J</em></p>
     <p><strong>PLoS ONE</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/34234376/">Link to paper</a><span class="publication-label"> (Labels: microscopy, image-analysis, deep-learning)</span></p>
+</div>
+<div class="publication" data-labels="deep-learning image-analysis">
+    <h3>Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning</h3>
+    <p><em>Lemay A, Gros C, Zhuo Z, Zhang J, Duan Y, Cohen-Adad J, Liu Y</em></p>
+    <p><strong>Neuroimage Clin</strong> (2021) <a href="https://www.sciencedirect.com/science/article/pii/S2213158221002102?via%3Dihub">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>ivadomed: A Medical Imaging Deep Learning Toolbox</h3>
@@ -542,9 +192,8 @@ document.write(`
     <p><em>Lemay A, Gros C, Vincent O, Liu Y,  Cohen JP, Cohen-Adad J</em></p>
     <p><strong>MIDL - Medical Imaging with Deep Learning</strong> (2021) <a href="https://arxiv.org/pdf/2102.09582.pdf">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
-</section>
-<section id="id4">
-<h2>2020<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h2>
+
+## 2020
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>An interactive meta-analysis of MRI biomarkers of myelin</h3>
@@ -611,9 +260,8 @@ document.write(`
     <p><em>Mummaneni N, Burke JF, DiGiorgio AM, Thomas LH, Duong-Fernandez X, Harris M, Pascual LU, Ferguson AR, Russell Huie J, Pan JZ, Hemmerle DD, Singh V, Torres-Espin A, Omondi C, Kyritsis N, Weinstein PR, Whetstone WD, Manley GT, Bresnahan JC, Beattie MS, Cohen-Adad J, Dhall SS, Talbott JF</em></p>
     <p><strong>J Clin Neurosci</strong> (2020) <a href="https://pubmed.ncbi.nlm.nih.gov/33248950/">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri)</span></p>
 </div>
-</section>
-<section id="id5">
-<h2>2019<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h2>
+
+## 2019
 <div class="publications-container">
 <div class="publication" data-labels="multiple-sclerosis quantitative-mri">
     <h3>Gray Matter Alterations in Early and Late Relapsing-Remitting Multiple Sclerosis Evaluated with Synthetic Quantitative Magnetic Resonance Imaging</h3>
@@ -725,9 +373,8 @@ document.write(`
     <p><em>Karbasforoushan H, Cohen-Adad J, Dewald JPA</em></p>
     <p><strong>Nat Commun</strong> (2019) <a href="https://www.ncbi.nlm.nih.gov/pubmed/31388003">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
 </div>
-</section>
-<section id="id6">
-<h2>2018<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h2>
+
+## 2018
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Test-retest reliability of myelin imaging in the human spinal cord: Measurement errors versus region- and aging-induced variations</h3>
@@ -839,9 +486,8 @@ document.write(`
     <p><em>Perone CS, Cohen-Adad J</em></p>
     <p><strong>4th Deep Learning in Medical Image Analysis (DLMIA) Workshop, Granada, Spain</strong> (2018) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis, deep-learning)</span></p>
 </div>
-</section>
-<section id="id7">
-<h2>2017<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h2>
+
+## 2017
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis">
     <h3>Spinal cord grey matter segmentation challenge</h3>
@@ -908,9 +554,8 @@ document.write(`
     <p><em>Granberg T, Fan Q, Treaba CA, Ouellette R, Herranz E, Mangeat G, Louapre C, Cohen-Adad J, Klawiter EC, Sloane JA, Mainero C</em></p>
     <p><strong>Brain</strong> (2017) <a href="https://www.ncbi.nlm.nih.gov/pubmed/29053798">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, multiple-sclerosis)</span></p>
 </div>
-</section>
-<section id="id8">
-<h2>2016<a class="headerlink" href="#id8" title="Permalink to this heading">#</a></h2>
+
+## 2016
 <div class="publications-container">
 <div class="publication" data-labels="microscopy image-analysis">
     <h3>AxonSeg: open source software for axon and myelin segmentation and morphometric analysis</h3>
@@ -952,9 +597,8 @@ document.write(`
     <p><em>Duval T, Stikov N, Cohen-Adad J</em></p>
     <p><strong>Funct Neurol</strong> (2016) <a href="https://www.ncbi.nlm.nih.gov/pubmed/28072382">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri)</span></p>
 </div>
-</section>
-<section id="id9">
-<h2>2015<a class="headerlink" href="#id9" title="Permalink to this heading">#</a></h2>
+
+## 2015
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Spinal diffusion tensor imaging: A comprehensive review with emphasis on spinal cord anatomy and clinical applications</h3>
@@ -1061,9 +705,8 @@ document.write(`
     <p><em>Stikov N, Campbell JS, Stroh T, Lavelee M, Frey S, Novek J, Nuara S, Ho MK, Bedell BJ, Dougherty RF, Leppert IR, Boudreau M, Narayanan S, Duval T, Cohen-Adad J, Picard PA, Gasecka A, Cote D, Pike GB</em></p>
     <p><strong>Data Brief</strong> (2015) <a href="https://www.ncbi.nlm.nih.gov/pubmed/26217818">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, microscopy, neuroscience)</span></p>
 </div>
-</section>
-<section id="id10">
-<h2>2014<a class="headerlink" href="#id10" title="Permalink to this heading">#</a></h2>
+
+## 2014
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri neuroscience">
     <h3>Multi-parametric spinal cord MRI as potential progression marker in amyotrophic lateral sclerosis</h3>
@@ -1120,9 +763,8 @@ document.write(`
     <p><em>De Leener B, Cohen-Adad J, Kadoury S</em></p>
     <p><strong>Proceedings of the SPIE</strong> (2014) <a href="">Link to paper</a><span class="publication-label"> (Labels: image-analysis)</span></p>
 </div>
-</section>
-<section id="id11">
-<h2>2013<a class="headerlink" href="#id11" title="Permalink to this heading">#</a></h2>
+
+## 2013
 <div class="publications-container">
 <div class="publication" data-labels="mri-physics quantitative-mri">
     <h3>The Human Connectome Project and beyond: initial applications of 300 mT/m gradients</h3>
@@ -1159,9 +801,8 @@ document.write(`
     <p><em>Satpute A, Wager T, Cohen-Adad J, Bianciardi M, Choi J-K, Buhle J, Wald LL, Fedman Barret L</em></p>
     <p><strong>Proc Natl Acad Sci U S A</strong> (2013) <a href="https://www.ncbi.nlm.nih.gov/pubmed/24082116">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, neuroscience)</span></p>
 </div>
-</section>
-<section id="id12">
-<h2>2012<a class="headerlink" href="#id12" title="Permalink to this heading">#</a></h2>
+
+## 2012
 <div class="publications-container">
 <div class="publication" data-labels="mri-physics image-analysis">
     <h3>Accelerated Diffusion Spectrum Imaging with Compressed Sensing using Adaptive Dictionaries</h3>
@@ -1203,9 +844,8 @@ document.write(`
     <p><em>Nielsen AS, Kinkel RP, Tinelli E, Benner T, Cohen-Adad J, Mainero C</em></p>
     <p><strong>J Magn Reson Imaging</strong> (2012) <a href="https://www.ncbi.nlm.nih.gov/pubmed/22045554">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, quantitative-mri)</span></p>
 </div>
-</section>
-<section id="id13">
-<h2>2011<a class="headerlink" href="#id13" title="Permalink to this heading">#</a></h2>
+
+## 2011
 <div class="publications-container">
 <div class="publication" data-labels="spinal-cord-injury quantitative-mri">
     <h3>Demyelination and degeneration in the injured human spinal cord detected with diffusion and magnetization transfer MRI</h3>
@@ -1237,9 +877,8 @@ document.write(`
     <p><em>Sharman M, Cohen-Adad J, Descoteaux M, Messé A, Benali H, Lehericy S</em></p>
     <p><strong>J Magn Reson Imaging</strong> (2011) <a href="https://www.ncbi.nlm.nih.gov/pubmed/21591020">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
-</section>
-<section id="id14">
-<h2>2010<a class="headerlink" href="#id14" title="Permalink to this heading">#</a></h2>
+
+## 2010
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri image-analysis neuroscience">
     <h3>Human cervical spinal cord funiculi: investigation with magnetic resonance diffusion tensor imaging</h3>
@@ -1256,9 +895,8 @@ document.write(`
     <p><em>Cohen-Adad J, Gauthier CJ, Brooks JCW, Slessarev M, Han J, Fisher JA, Rossignol S, Hoge RD</em></p>
     <p><strong>Neuroimage</strong> (2010) <a href="https://www.ncbi.nlm.nih.gov/pubmed/20060914">Link to paper</a><span class="publication-label"> (Labels: fmri, neuroscience)</span></p>
 </div>
-</section>
-<section id="id15">
-<h2>2009<a class="headerlink" href="#id15" title="Permalink to this heading">#</a></h2>
+
+## 2009
 <div class="publications-container">
 <div class="publication" data-labels="fmri">
     <h3>Characterization of cardiac-related noise in fMRI of the cervical spinal cord</h3>
@@ -1270,9 +908,8 @@ document.write(`
     <p><em>Cohen-Adad J, Hoge RD, Leblond H, Xie G, Beaudoin G, Song AW, Krueger G, Doyon J, Benali H, Rossignol S</em></p>
     <p><strong>Neuroimage</strong> (2009) <a href="https://www.ncbi.nlm.nih.gov/pubmed/18938251">Link to paper</a><span class="publication-label"> (Labels: fmri, neuroscience)</span></p>
 </div>
-</section>
-<section id="id16">
-<h2>2008<a class="headerlink" href="#id16" title="Permalink to this heading">#</a></h2>
+
+## 2008
 <div class="publications-container">
 <div class="publication" data-labels="quantitative-mri">
     <h3>Detection of multiple pathways in the spinal cord using q-ball imaging</h3>
@@ -1289,9 +926,8 @@ document.write(`
     <p><em>Cohen-Adad J, Benali H, Barrière G, Leblond H, Hoge RD, Rossignol S</em></p>
     <p><strong>IRBM</strong> (2008) <a href="">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri)</span></p>
 </div>
-</section>
-<section id="id17">
-<h2>2007<a class="headerlink" href="#id17" title="Permalink to this heading">#</a></h2>
+
+## 2007
 <div class="publications-container">
 <div class="publication" data-labels="fmri neuroscience">
     <h3>Application of the general linear model to hemodynamic response estimation in diffuse optical imaging</h3>
@@ -1303,9 +939,8 @@ document.write(`
     <p><em>Cohen-Adad J, Chapuisat S, Doyon J, Rossignol S, Lina JM, Benali H, Lesage F</em></p>
     <p><strong>Med Image Anal</strong> (2007) <a href="https://www.ncbi.nlm.nih.gov/pubmed/17643341">Link to paper</a><span class="publication-label"> (Labels: fmri)</span></p>
 </div>
-</section>
-<section id="id18">
-<h2>2006<a class="headerlink" href="#id18" title="Permalink to this heading">#</a></h2>
+
+## 2006
 <div class="publications-container">
 <div class="publication" data-labels="image-analysis neuroscience">
     <h3>Knowledge modeling in image guided neurosurgery: application in understanding intra-operative brain shift</h3>
@@ -1313,126 +948,3 @@ document.write(`
     <p><strong>SPIE Medical Imaging</strong> (2006) <a href="https://www.hal.inserm.fr/inserm-00147527">Link to paper</a><span class="publication-label"> (Labels: image-analysis, neuroscience)</span></p>
 </div>
 </div>
-</section>
-</section>
-
-
-                </article>
-              
-
-              
-              
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
-<div class="prev-next-area">
-    <a class="left-prev"
-       href="README.html"
-       title="previous page">
-      <i class="fa-solid fa-angle-left"></i>
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title"><span>📚</span> Publications</p>
-      </div>
-    </a>
-    <a class="right-next"
-       href="books.html"
-       title="next page">
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Book chapters</p>
-      </div>
-      <i class="fa-solid fa-angle-right"></i>
-    </a>
-</div></div>
-  
-</div>
-
-                </footer>
-              
-            </div>
-            
-            
-              
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> Page Contents
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">2023</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">2022</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">2021</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">2020</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">2019</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">2018</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">2017</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">2016</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id9">2015</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id10">2014</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id11">2013</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id12">2012</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id13">2011</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id14">2010</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id15">2009</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id16">2008</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id17">2007</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id18">2006</a></li>
-</ul>
-  </nav></div>
-
-</div></div>
-              
-            
-          </div>
-          <footer class="bd-footer-content">
-            
-<div class="bd-footer-content__inner container">
-  
-  <div class="footer-item">
-    
-<p class="component-author">
-By NeuroPoly
-</p>
-
-  </div>
-  
-  <div class="footer-item">
-    
-  <p class="copyright">
-    
-      © Copyright 2021, NeuroPoly.
-      <br/>
-    
-  </p>
-
-  </div>
-  
-  <div class="footer-item">
-    
-  </div>
-  
-  <div class="footer-item">
-    
-  </div>
-  
-</div>
-          </footer>
-        
-
-      </main>
-    </div>
-  </div>
-  
-  <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
-
-  <footer class="bd-footer">
-  </footer>
-  </body>
-</html>
