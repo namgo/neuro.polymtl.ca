@@ -2,7 +2,7 @@
 
 ```{toctree}
 :maxdepth: 1
-journal_articles
+articles
 books
 theses
 public_news

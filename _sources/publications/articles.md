@@ -1,8 +1,3 @@
----
-title: Combined
----
-# Combined
-
 
 ## 2023
 <div class="publications-container">
