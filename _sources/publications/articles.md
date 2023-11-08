@@ -11,6 +11,11 @@
     <p><em>Snoussi H, Cohen-Adad J, Combès B, Bannier É, Tounekti S, Kerbrat A, Barillot C, Caruyer E</em></p>
     <p><strong>Brain Behav</strong> (2023) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.3159">Link to paper</a><span class="publication-label"> (Labels: multiple-sclerosis, image-analysis)</span></p>
 </div>
+<div class="publication" data-labels="mri-physics shimming">
+    <h3>Dynamic shimming in the cervical spinal cord for multi-echo gradient-echo imaging at 3 T</h3>
+    <p><em>Alonso-Ortiz E, Papp D, D’Astous A, Cohen-Adad J</em></p>
+    <p><strong>Neuroimage: Reports</strong> (2023) <a href="https://doi.org/10.1016/j.ynirp.2022.100150">Link to paper</a><span class="publication-label"> (Labels: mri-physics, shimming)</span></p>
+</div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Contrast-agnostic deep learning–based registration pipeline: Validation in spinal cord multimodal MRI data</h3>
     <p><em>Beal E, Cohen-Adad J</em></p>
@@ -127,20 +132,25 @@
     <p><em>Valošek J, Labounek R, Horák T, Horáková M, Bednařík P, Keřkovský M, Kočica J, Rohan T, Lenglet C, Cohen-Adad J, Hluštík P, Vlčková E, Kadaňka Z, Bednařík J, Svatkova A</em></p>
     <p><strong>Eur J Neurol</strong> (2021) <a href="https://doi.org/10.1111/ene.15027">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri, image-analysis)</span></p>
 </div>
-<div class="publication" data-labels="quantitative-mri image-analysis">
-    <h3>Spatial correspondence of spinal cord white matter tracts using diffusion tensor imaging, fibre tractography, and atlas-based segmentation</h3>
-    <p><em>McLachlin S, Leung J, Sivan V, Quirion P-O, Wilkie P, Cohen-Adad J, Whyne C M, Hardisty M R</em></p>
-    <p><strong>Neuroradiology</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33447915/">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
-</div>
 <div class="publication" data-labels="spinal-cord-injury quantitative-mri image-analysis">
     <h3>Spinal Cord Morphology in Degenerative Myelopathy Patients; Assessing Key Morphological Characteristics Using Machine Vision Tools</h3>
     <p><em>Ost K, Jacobs WB, Evaniew N, Cohen-Adad J, Anderson D, Cadotte D</em></p>
     <p><strong>Journal of Clinical Medicine </strong> (2021) <a href="https://www.mdpi.com/2077-0383/10/4/892">Link to paper</a><span class="publication-label"> (Labels: spinal-cord-injury, quantitative-mri, image-analysis)</span></p>
 </div>
+<div class="publication" data-labels="neuroscience">
+    <h3>Associations between relative morning blood pressure, cerebral blood flow, and memory in older adults treated and controlled for hypertension</h3>
+    <p><em>Noriega de la Colina A, Badji A, Robitaille-Grou MC, Gagnon C, Boshkovski T, Lamarre-Cliche M, Joubert S, Gauthier C, Bherer L, Cohen-Adad J, Girouard H</em></p>
+    <p><strong>Hypertension</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33775122/">Link to paper</a><span class="publication-label"> (Labels: neuroscience)</span></p>
+</div>
 <div class="publication" data-labels="deep-learning image-analysis">
     <h3>Automatic multiclass intramedullary spinal cord tumor segmentation on MRI with deep learning</h3>
     <p><em>Lemay A, Gros C, Zhuo Z, Zhang J, Duan Y, Cohen-Adad J, Liu Y</em></p>
     <p><strong>Neuroimage Clin</strong> (2021) <a href="https://www.sciencedirect.com/science/article/pii/S2213158221002102?via%3Dihub">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
+</div>
+<div class="publication" data-labels="quantitative-mri image-analysis">
+    <h3>Spatial correspondence of spinal cord white matter tracts using diffusion tensor imaging, fibre tractography, and atlas-based segmentation</h3>
+    <p><em>McLachlin S, Leung J, Sivan V, Quirion P-O, Wilkie P, Cohen-Adad J, Whyne C M, Hardisty M R</em></p>
+    <p><strong>Neuroradiology</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33447915/">Link to paper</a><span class="publication-label"> (Labels: quantitative-mri, image-analysis)</span></p>
 </div>
 <div class="publication" data-labels="microscopy image-analysis deep-learning">
     <h3>A simple and robust method for automating analysis of naïve and regenerating peripheral nerves</h3>
@@ -171,11 +181,6 @@
     <h3>SoftSeg: Advantages of soft versus binary training for image segmentation</h3>
     <p><em>Gros C, Lemay A, Cohen-Adad J</em></p>
     <p><strong>Med Image Anal</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33784599/">Link to paper</a><span class="publication-label"> (Labels: deep-learning, image-analysis)</span></p>
-</div>
-<div class="publication" data-labels="neuroscience">
-    <h3>Associations between relative morning blood pressure, cerebral blood flow, and memory in older adults treated and controlled for hypertension</h3>
-    <p><em>Noriega de la Colina A, Badji A, Robitaille-Grou MC, Gagnon C, Boshkovski T, Lamarre-Cliche M, Joubert S, Gauthier C, Bherer L, Cohen-Adad J, Girouard H</em></p>
-    <p><strong>Hypertension</strong> (2021) <a href="https://pubmed.ncbi.nlm.nih.gov/33775122/">Link to paper</a><span class="publication-label"> (Labels: neuroscience)</span></p>
 </div>
 <div class="publication" data-labels="quantitative-mri">
     <h3>Rapid simultaneous acquisition of macromolecular tissue volume, susceptibility, and relaxometry maps</h3>
